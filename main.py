@@ -8,7 +8,8 @@ st.set_page_config(
 # and must be called as the first Streamlit command in your script.
 
 from pathlib import Path
-from streamlit_option_menu import option_menu
+#from streamlit_option_menu import option_menu
+import streamlit_option_menu
 from PIL import Image
 import CV, Academic, PhD_Thesis, Books, Articles, Research, Programming, YouTube, Contact
 
