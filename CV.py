@@ -23,7 +23,7 @@ def app():
 	# --- COLUMNS SECTION ---	
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.subheader(":gray[:red[Former] Full Professor at Babes-Bolyai University Cluj Napoca, Faculty of Engineering, Resita, Romania,  currently retired at the age limit.]")
+		st.subheader(":gray[:red[Former] Full Professor at Babes-Bolyai University Cluj Napoca, Faculty of Engineering, Resita, Romania,  currently retired at the age limit...]")
 		st.title(" :wave:" )
 	with col2:
 		profile_picture = Image.open(current_dir / "Images" / "Dorian Nedelcu.jpg")
