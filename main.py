@@ -12,14 +12,25 @@ st.set_page_config(
 	page_icon="🧊",
 	initial_sidebar_state="expanded" )
 	# layout="wide",
+
 # ---  PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
+img_Black = current_dir / "Images" / "Black.avif"
+st.markdown(f"""
+            <style>
+            .stApp {{background-image: img_Black); 
+                     background-attachment: fixed;
+                     background-size: cover}}
+			</style>
+			""", unsafe_allow_html=True)
 
 st.header(":large_blue_square: Dorian NEDELCU Activity :arrow_down:")
 
 st.sidebar.title(":classical_building: Dorian Nedelcu")
 st.sidebar.write("---")
 st.sidebar.write(":point_down: :red[Select an option below!] ")
+
+sidebar = { "backgroundColor": "#fffd80", "contrast": 1.2 }
 
 if st.sidebar.button(':gear: Digital CV ', use_container_width=True):
 	CV.app()
