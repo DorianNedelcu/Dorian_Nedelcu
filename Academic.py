@@ -65,7 +65,7 @@ def app():
 	- Fluid simulation (SolidWorks Flow Simulation).
 	- Calculation of mechanisms (SolidWorks Motion).
 	- Programming languages:  PYTHON,  VIZUAL BASIC, VIZUAL FoxPRO, Microsoft Excel, Microsoft Access, 
-		FORTRAN, BASIC, dBASE, PASCAL, FoxPRO, HTML, Basic4Android, Matplotlib, Three.js.	
+		FORTRAN, BASIC, dBASE, PASCAL, FoxPRO, HTML, Basic4Android (B4A), Matplotlib, Streamlit, Three.js.	
 	"""
 	)
 

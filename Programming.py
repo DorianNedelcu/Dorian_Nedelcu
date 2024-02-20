@@ -201,10 +201,10 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.subheader(":large_orange_square: :red[Basic4Android]") 
+		st.subheader(":large_orange_square: :red[Basic4Android (B4A)]") 
 		st.write(" -  :green[Unfold Sheets Parts]")
 		st.write(""" -  This application is accessible on Android smartphones 
-				and has been developed to unfold the sheet metal parts. """)
+				and has been developed in B4A to unfold the sheet metal parts. """)
 		st.info(":aqua[This application does not share data over the internet, the code  runs entirely on the user's smartphone, does not contain any viruses and not store data to any external server.]", icon="🔥")
 		st.write( "Step to install on smartphone:")
 		st.write( """
@@ -218,13 +218,28 @@ def app():
 		profile_picture = Image.open(current_dir / "Images" / "Unfold_Sheets_Parts.jpg")
 		st.image(profile_picture, width=350)
 		
+
+	# ====================================================================
+	st.write("---")
+	col1, col2 = st.columns(2,gap="small")
+	with col1:
+		st.subheader(":large_orange_square: :red[Streamlit]") 
+		st.write(" - :green[Unfold Sheets Part]")	
+		
+		st.write("This application has been developed in Streamlit & Python & Matplotlib to unfold the sheet metal parts. It is the same application developed in Basic4Android.")
+		st.info(":aqua[The application is accesible through Internet, does not contain any viruses and not store data to any external server.]", icon="🔥")			
+		st.link_button("Go To Web page", "https://unfoldsheetsparts.streamlit.app/")
+	with col2:
+		profile_picture = Image.open(current_dir / "Images" / "Unfold_Streamlit.jpg")
+		st.image(profile_picture, width=350)
+			
 	# ====================================================================
 	st.write("---")
 	st.subheader(":large_orange_square: :red[Three.js]") 
 	st.write(" - Computer Aidedd Design Applications (for student use).")
 	
 	st.write(" :ice_cube: [Acces Web Page](http://vechi.uem.ro/fileadmin/3_ACADEMICA/1_FACULTATI/1_FIM/cadre/NedelcuD/Aplicatii/_index.html)")
-	st.info(":aqua[Use only Firefox or Chrome browsers to display 3D models correctly]", icon="🔥")
+	st.info(":aqua[Use only Firefox or Chrome browsers to display 3D models correctly !]", icon="🔥")
 
 
 
