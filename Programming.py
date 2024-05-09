@@ -213,7 +213,8 @@ def app():
 				- On smartphone tap the apk file name;
 				- Select 'Package Installer' option to install.
 				""")
-		FCT_Down( current_dir / 'DOCS' / 'Unfold_Sheet_Parts.apk', ":green[Unfold Sheets Parts.apk] :red[File Download]" )
+		FCT_Down( current_dir / 'DOCS' / 'Unfold_Sheet_Parts.apk', ":green[Unfold Sheets Parts.apk] :red[ Download]" )
+		FCT_Down( current_dir / 'DOCS' / 'UnfoldSheetsParts-Project.zip', ":green[UnfoldSheetsParts-Project.zip] :red[ Download]" )
 	with col2:
 		profile_picture = Image.open(current_dir / "Images" / "Unfold_Sheets_Parts.jpg")
 		st.image(profile_picture, width=350)
@@ -228,7 +229,7 @@ def app():
 		
 		st.write("This application has been developed in Streamlit & Python & Matplotlib to unfold the sheet metal parts. It is the same application developed in Basic4Android.")
 		st.info(":aqua[The application is accesible through Internet, does not contain any viruses and not store data to any external server.]", icon="🔥")			
-		st.link_button("Go To Web page", "https://unfoldsheetsparts.streamlit.app/")
+		st.link_button(":red[ Go To Test Web page]", "https://unfoldsheetsparts.streamlit.app/")
 	with col2:
 		profile_picture = Image.open(current_dir / "Images" / "Unfold_Streamlit.jpg")
 		st.image(profile_picture, width=350)
@@ -238,7 +239,7 @@ def app():
 	st.subheader(":large_orange_square: :red[Three.js]") 
 	st.write(" - Computer Aidedd Design Applications (for student use).")
 	
-	st.write(" :ice_cube: [Acces Web Page](http://vechi.uem.ro/fileadmin/3_ACADEMICA/1_FACULTATI/1_FIM/cadre/NedelcuD/Aplicatii/_index.html)")
+	st.write(" :ice_cube: [Go TO Web Page](http://vechi.uem.ro/fileadmin/3_ACADEMICA/1_FACULTATI/1_FIM/cadre/NedelcuD/Aplicatii/_index.html)")
 	st.info(":aqua[Use only Firefox or Chrome browsers to display 3D models correctly !]", icon="🔥")
 
 
