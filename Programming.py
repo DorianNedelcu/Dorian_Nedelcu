@@ -25,6 +25,15 @@ def app():
 	st.write("#")
 	st.subheader(":large_orange_square: :red[Python]") 
 
+
+	image_Python = current_dir / "Images" / "Python Introduction.jpg"
+	st.image(Image.open(image_Python), width=700)
+	col1, col2 = st.columns(2,gap="small")
+	with col1:
+		st.write("University VITEZ - Python Presentation") 
+	with col2:
+		Python_file = current_dir / 'DOCS' / 'Python Introduction.pdf'
+		FCT_Down( Python_file, "Download presentation" )
 	st.write("---")
 	st.subheader(":gray[1. PyDigitizer]") 
 	col1, col2 = st.columns(2,gap="small")

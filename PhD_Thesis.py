@@ -32,7 +32,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("1. Contributions to the constructive-functional improvement of double harmonic gearboxes") 
+		st.write(":one: Contributions to the constructive-functional improvement of double harmonic gearboxes") 
 		st.write( """
 			- PhD student: Ianici (Rujici) Draghiţa 
 			- Year of registration : 2009
@@ -50,7 +50,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("2. Cavitational erosion research on materials used in the manufacture of hydraulic turbine components") 
+		st.write(":two: Cavitational erosion research on materials used in the manufacture of hydraulic turbine components") 
 		st.write( """
 			- PhD student: Nedeloni Marian-Dumitru 
 			- Year of registration : 2009
@@ -68,7 +68,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("3. Theoretical and experimental contributions to the study and design of the spiral chamber, stator and wicked gate of hydraulic turbines") 
+		st.write(":three: Theoretical and experimental contributions to the study and design of the spiral chamber, stator and wicked gate of hydraulic turbines") 
 		st.write( """
 			- PhD student: Daia Daniel  
 			- Year of registration : 2009
@@ -84,7 +84,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("4. Theoretical and experimental investigations on an axial-tubular microturbine equipped with an immersed generator with permanent magnets") 
+		st.write(":four: Theoretical and experimental investigations on an axial-tubular microturbine equipped with an immersed generator with permanent magnets") 
 		st.write( """
 			- PhD student: Florea Dănuţ 
 			- Year of registration : 2010
@@ -100,7 +100,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("5. Theoretical and experimental contributions on high and low head flow microturbines") 
+		st.write(":five: Theoretical and experimental contributions on high and low head flow microturbines") 
 		st.write( """
 			- PhD student: Avasiloaie Raoul-Cristian 
 			- Year of registration : 2010
@@ -117,7 +117,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("6. Research on the construction and operation of harmonic transmissions having wave generator with shape memory alloy elements") 
+		st.write(":six: Research on the construction and operation of harmonic transmissions having wave generator with shape memory alloy elements") 
 		st.write( """
 			- PhD student: Bizău Viorel Ionuţ 
 			- Year of registration : 2011
@@ -135,7 +135,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("7. Research on the optimization of the biplane disc shape of butterfly valves considering hydraulic losses") 
+		st.write(":seven: Research on the optimization of the biplane disc shape of butterfly valves considering hydraulic losses") 
 		st.write( """
 			- PhD student: Periş Bendu Florin 
 			- Year of registration : 2012
@@ -154,7 +154,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("8. Contributions to the improvement of experimental measurement methods and results processing in the hydraulic turbine model test stand") 
+		st.write(":eight: Contributions to the improvement of experimental measurement methods and results processing in the hydraulic turbine model test stand") 
 		st.write( """
 			- PhD student: Ghican Adelina 
 			- Year of registration : 2012
@@ -170,7 +170,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("9. Research on the behaviour of preloaded gears of speed multipliers") 
+		st.write(":nine: Research on the behaviour of preloaded gears of speed multipliers") 
 		st.write( """
 			- PhD student: Băra Aurel  
 			- Year of registration : 2013
@@ -188,7 +188,7 @@ def app():
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("10. Application of reverse engineering to the reconstruction of the geometry of profiled components of hydraulic turbines") 
+		st.write(":one::zero: Application of reverse engineering to the reconstruction of the geometry of profiled components of hydraulic turbines") 
 		st.write( """
 			- PhD student: Bogdan Sorin-Laurenţiu   
 			- Year of registration : 2015

@@ -20,6 +20,16 @@ def app():
 	st.title(":gear: :green[Digital CV - Dorian NEDELCU]") 
 	st.write("---")
 
+	st.link_button(":gray[Dorian NEDELCU - International Member of The Bosnian-Herzegovinian American Academy of Arts and Sciences (BHAAAS) - started from July 2024]", 
+				"https://www.bhaaas.org/")
+	image_BHAAAS1 = current_dir / "Images" / "BHAAAS1.jpg"
+	st.image(Image.open(image_BHAAAS1), width=700)
+	st.link_button(":gray[Search BHAAAS members]", "https://www.bhaaas.org/en/dashboard/members")
+	image_BHAAAS2 = current_dir / "Images" / "BHAAAS2.jpg"
+	st.image(Image.open(image_BHAAAS2), width=700)
+
+	st.write("---")
+
 	# --- COLUMNS SECTION ---	
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
