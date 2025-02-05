@@ -50,11 +50,22 @@ def app():
 		col2.link_button("Download PDF file of the book", "http://www.editura.ubbcluj.ro/www/ro/books/search.php")
 
 		st.write( """:information_source: Write 'Python' word in Search field to find the PDF file""")
-		st.write( """   """) ; st.write( """   """)
-		st.write( """   """) ; st.write( """   """)
+		st.write( """   """) 
 
-		Monography_Code_file = current_dir / 'DOCS' / 'Monography_files.zip'
-		FCT_Down( Monography_Code_file, "Download the code of the scripts - 425 MB" )
+		st.write( """:arrow_down: Download the code of the scripts""")
+		Monography_Code_file = current_dir / 'DOCS' / 'Book_files - chapters 01-10.zip'
+		FCT_Down( Monography_Code_file, "Book_files - chapters 01-10.zip" )
+
+		Monography_Code_file = current_dir / 'DOCS' / 'Book_files - chapters 11-16.zip'
+		FCT_Down( Monography_Code_file, "Book_files - chapters 11-16.zip" )
+
+		Monography_Code_file = current_dir / 'DOCS' / 'Book_files - chapters 17-20.zip'
+		FCT_Down( Monography_Code_file, "Book_files - chapters 17-20.zip" )
+
+		Monography_Code_file = current_dir / 'DOCS' / 'Book_files - chapters 21-22.zip'
+		FCT_Down( Monography_Code_file, "Book_files - chapters 21-22.zip" )
+
+
 
 	st.write( """:green[The book "Programming Engineering Application in Python, wxPython and Streamlit" by Dorian Nedelcu and Tihomir Latinovic 
 		   is designed for both beginners and those with some programming experience. It covers various applications of Python, including 
