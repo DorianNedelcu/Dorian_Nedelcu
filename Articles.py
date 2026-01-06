@@ -429,7 +429,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.1. Article  Title: :green[USING STREAMLIT AND BASIC4ANDROID (B4A) TO CREATE THE SAME APPLICATION – B4A VERSION]
+		3.4. Article  Title: :green[USING STREAMLIT AND BASIC4ANDROID (B4A) TO CREATE THE SAME APPLICATION – B4A VERSION]
 		Author(s): D Nedelcu, T Latinovic, L Sikman, Mladen TODIC, Aleksandar MAJSTOROVIC, Source: :blue[ACTA TECHNICA CORVINIENSIS – Bulletin of Engineering], 
 		e–ISSN: 2067 – 3809, Tome XVII, Published: OCT :red[2024]
 	"""   )
@@ -437,7 +437,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.2. Article  Title: :green[USING STREAMLIT AND BASIC4ANDROID (B4A) TO CREATE THE SAME APPLICATION – STREAMLIT VERSION]
+		3.5. Article  Title: :green[USING STREAMLIT AND BASIC4ANDROID (B4A) TO CREATE THE SAME APPLICATION – STREAMLIT VERSION]
 		Author(s): D Nedelcu, T Latinovic, L Sikman, Mladen TODIC, Aleksandar MAJSTOROVIC, Source: :blue[ANNALS of Faculty Engineering Hunedoara – INTERNATIONAL JOURNAL OF ENGINEERING], 
 		Tome XXII, Fascicule 4,Published: NOV :red[2024]
 	"""   )
@@ -445,7 +445,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.3. Article  Title: :green[PyDigitizer–A Python module for digitizing 2D curves]
+		3.6. Article  Title: :green[PyDigitizer–A Python module for digitizing 2D curves]
 		Author(s): D Nedelcu, T Latinovic, L Sikman, Source: :blue[Journal of Physics: Conference Series]
 		Volume: 2540  Issue: 1 Pages: 012015 Published: IUL :red[2023]
 	"""   )
@@ -453,7 +453,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.4. Article  Title: :green[Numerical investigation of the stress state in the runner
+		3.7. Article  Title: :green[Numerical investigation of the stress state in the runner
 		hub of a Kaplan turbine] Author(s): V. Cojocaru, C-O Miclosina*, C. V. Campian, 
 		D. Frunzaverde, D. Nedelcu Source: :blue[IOP Conference Series: Materials Science and Engineering]
 		Volume: 1262,  Issue: 1, Pages: 012046, Published: OCT :red[2022]
@@ -462,7 +462,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.5. Article  Title: :green[Study on the Behavior of the Isolated Structures with Friction Pendulums
+		3.8. Article  Title: :green[Study on the Behavior of the Isolated Structures with Friction Pendulums
 		and a Counterweight], Author(s): Tatian-Cristian Malin, Gilbert-Rainer Gillich, Dorian Nedelcu
 		Source: :blue[Acoustics and Vibration of Mechanical Structures–AVMS-2021]: Proceedings of the 16th 
 		AVMS, Timişoara, Romania, May 28-29, 2021, Pages: 364-371 Published: :red[2022]
@@ -471,7 +471,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.6. Article  Title: :green[STRENGTH CALCULATIONS PERFORMED ON THE SPIRAL CASING OF A FRANCIS 
+		3.9. Article  Title: :green[STRENGTH CALCULATIONS PERFORMED ON THE SPIRAL CASING OF A FRANCIS 
 		TURBINE OPERATING IN SECONDARY CONTROL REGIME], Author(s): E. Birtarescu, VC. Campian, D. Nedelcu,
 		Source: :blue[U.P.B. Sci. Bulletin], Series D, Vol. 83, Iss. 2, ISSN 1454-2358
 		Published: :red[2021]
@@ -480,7 +480,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.7. Article Title: :green[A MOTION STUDY OF THE QUADRILATERAL PLANE MECHANISM WITH SOLIDWORKS], , Authors: 
+		3.10. Article Title: :green[A MOTION STUDY OF THE QUADRILATERAL PLANE MECHANISM WITH SOLIDWORKS], , Authors: 
 		D. Nedelcu, C. Hatiegan, N. Gillich, MM. Pop, Source: :blue[The 9th International Conference on Computational 
 		Mechanics and Virtual Engineering COMEC 2021], Brașov, ROMANIA, 21-23 October, :red[2021]
 	"""   )
@@ -489,7 +489,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.8. Article  Title: :green[Displacement and velocity estimation of the earthquake response signals 
+		3.11. Article  Title: :green[Displacement and velocity estimation of the earthquake response signals 
 		measured with accelerometers], Author(s): D Nedelcu, T C Malin, G R Gillich, C I Barbinta, V Iancu,
 		Source: :blue[IOP Conf. Series: Materials Science and Engineering], 997, 012051 IOP Publishing
 		doi:10.1088/1757-899X/997/1/012051 Published: :red[2020]
@@ -498,7 +498,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.9. Article  Title: :green[Development of an inertial propulsion drive by using Motion
+		3.12. Article  Title: :green[Development of an inertial propulsion drive by using Motion
 		Simulation], Author(s): A. Gerocs, ZI. Korka, D. Nedelcu, G R Gillich, Source: 
 		:blue[IOP Conf. Series: Materials Science and Engineering], 997, 012043 IOP Publishing
 		doi:10.1088/1757-899X/997/1/012043  Published: :red[2020]
@@ -507,7 +507,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.10. Article  Title: :green[Deriving patterns for the vibration-based damage detection in
+		3.13. Article  Title: :green[Deriving patterns for the vibration-based damage detection in
 		side frames of bogies], Author(s): CI. Barbinta, G R Gillich, D. Nedelcu, T. Manescu, Source: 
 		:blue[IOP Conf. Series: Materials Science and Engineering], 997, 012035 IOP Publishing
 		doi:10.1088/1757-899X/997/1/012035  Published: :red[2020]
@@ -516,7 +516,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.11. Article  Title: :green[A new predictive model to estimate the frequencies for beams with 
+		3.14. Article  Title: :green[A new predictive model to estimate the frequencies for beams with 
 		branched cracks], Author(s): C. Tufisi, GR. Gillich, CI. Barbinta, D. Nedelcu, CO. Hamat,
 		Source: :blue[IOP Conf. Series: Materials Science and Engineering], 997, 012063 IOP Publishing
 		doi:10.1088/1757-899X/997/1/012063  Published: :red[2020]
@@ -525,7 +525,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.12. Article  Title: :green[A Python application to generate digital signals], Author(s): 
+		3.15. Article  Title: :green[A Python application to generate digital signals], Author(s): 
 		TC. Malin, GR. Gillich, D. Nedelcu, Source: :blue[STUDIA UNIVERSITATIS BABEȘ-BOLYAI], 
 		Engineering 65(1) 2020, doi:10.24193/subbeng.2020.1.10  Published: :red[2020]
 	"""   )
@@ -533,7 +533,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.13. Article  Title: :green[A Python application to calculate the mode shapes of rectangular plates], 
+		3.16. Article  Title: :green[A Python application to calculate the mode shapes of rectangular plates], 
 		Author(s): D. Nedelcu, CI. Barbinta, GR. Gillich, ZI. Korka, C. Hatiegan,
 		Source: :blue[Vibroengineering PROCEDIA], Vol.33, pp. 66-71
 		doi.org:10.2/vp2020.217191595  Published: :red[2020]
@@ -542,7 +542,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.14. Proceedings Paper  Title: :green[Exact solution for the severity of transverse cracks in prismatic beams]
+		3.17. Proceedings Paper  Title: :green[Exact solution for the severity of transverse cracks in prismatic beams]
 		Authors: Tufisi, C., Gillich, GR., Hamat, CO., Biro, I., Gillich, N., Nedelcu, D., Source: :blue[INTERNATIONAL 
 		CONFERENCE ON APPLIED SCIENCES (ICAS)  Book Series: Journal of Physics Conference Series] Volume: 1426 
 		Article Number: 012023 DOI: 10.1088/1742-6596/1426/1/012023 Published: :red[2020] Location: 
@@ -552,7 +552,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.15. Proceedings Paper  Title: :green[About the calculus of the relative frequency shifts for a 
+		3.18. Proceedings Paper  Title: :green[About the calculus of the relative frequency shifts for a 
 		beam with multiple cracks] Authors: Gillich, GR., Nedelcu, D., Hamat, CO., Wahab, MA., 
 		Barbinta, CI., Source: :blue[INTERNATIONAL CONFERENCE ON APPLIED SCIENCES (ICAS)  Book Series: 
 		Journal of Physics Conference Series] Volume: 1426 Article Number: 012024 DOI: 
@@ -563,7 +563,7 @@ def app():
 		
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.16. Proceedings Paper  Title: :green[The kinematic and kinetostatic study of the shaker mechanism 
+		3.19. Proceedings Paper  Title: :green[The kinematic and kinetostatic study of the shaker mechanism 
 		with SolidWorks Motion] Authors: Nedelcu, D., Gillich, GR., Bloju, A., Padurean, I., Source: 
 		:blue[INTERNATIONAL CONFERENCE ON APPLIED SCIENCES (ICAS)  Book Series: Journal of Physics 
 		Conference Series], Volume: 1426, Article Number: 012025, DOI: 10.1088/1742-6596/1426/1/012025, 
@@ -573,7 +573,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.17. Proceedings Paper  Title: :green[A comparative study between photogrammetry and laser 
+		3.20. Proceedings Paper  Title: :green[A comparative study between photogrammetry and laser 
 		technology applied on model turbine blades] Authors: Nedelcu, D., Gillich, GR., Gerocs, A., 
 		Padurean, I., Source: :blue[INTERNATIONAL CONFERENCE ON APPLIED SCIENCES (ICAS)  
 		Book Series: Journal of Physics Conference Series], Volume: 1426 Article Number: 012026
@@ -584,7 +584,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.18. Proceedings Paper  Title: :green[A new mathematical model for cracked beams with uncertain 
+		3.21. Proceedings Paper  Title: :green[A new mathematical model for cracked beams with uncertain 
 		boundary conditions] Authors: Gillich, GR., Nedelcu, D., Wahab, MA., Pop, MV., Hamat, CO., 
 		Source: :blue[PROCEEDINGS OF INTERNATIONAL CONFERENCE ON NOISE AND VIBRATION ENGINEERING 
 		(ISMA2020) / INTERNATIONAL CONFERENCE ON UNCERTAINTY IN STRUCTURAL DYNAMICS (USD2020)],
@@ -594,7 +594,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.19. Article Title: :green[Assessing multiple cracks in beams by a method based on the damage location coefficients]
+		3.22. Article Title: :green[Assessing multiple cracks in beams by a method based on the damage location coefficients]
 		 Authors: Gillich, G.-R., Aman, A.T., Nedelcu, D., Hamat, C.O., Manescu, T. Source: :blue[Vibroengineering Procedia 
 		23(3):49-54, DOI:10.21595/vp.2019.20661, Published: :red[2019]
 	"""   )
@@ -602,7 +602,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.20. Article Title: :green[A comparative study about some application packages used in Photogrammetry],
+		3.23. Article Title: :green[A comparative study about some application packages used in Photogrammetry],
 		Authors: D. Nedelcu1, G-R Gillich, C. Malin-Tatian, Source: :blue[IOP Conference Series: Materials 
 		Science and Engineering 564 (1), 012054, doi:10.1088/1757-899X/564/1/012054, Published: :red[2019]
 	"""   )
@@ -610,7 +610,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.21. Article Title: :green[A versatile algorithm for estimating natural frequencies with high accuracy]
+		3.24. Article Title: :green[A versatile algorithm for estimating natural frequencies with high accuracy]
 		Authors: Gilbert-Rainer Gillich, Dorian Nedelcu, Constantin-Ioan Barbinta, Nicoleta Gillich, 
 		DOI doi.org/10.21595/vp.2019.20946, Source: :blue[Vibroengineering PROCEDIA] 27, 37-42, 
 		Published: :red[2019]
@@ -619,7 +619,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.22. Article Title: :green[Sensitivity analysis for frequency-based prediction of cracks in open 
+		3.25. Article Title: :green[Sensitivity analysis for frequency-based prediction of cracks in open 
 		cross-section beams], Authors: Barbinta, Constantin-Ioan, Tufisi, Cristian, Hamat, Codruta Oana,
 		Nedelcu, Dorian, Gillich, Gilbert-Rainer, Source: :blue[Vibroengineering Procedia], 2019, Vol 27, p7, 
 		ISSN 2345-0533, DOI 10.21595/vp.2019.20969, Published: :red[2019]
@@ -628,7 +628,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.23. Article Title: :green[The study of the punching cards mechanism with SolidWorks Motion],  
+		3.26. Article Title: :green[The study of the punching cards mechanism with SolidWorks Motion],  
 		Authors: Dorian Nedelcu, Gilbert-Rainer Gillich, Istvan Biro, Zoltan-Iosif, Korka, Attila Gerocs,
 		Source: :blue[Analele Universitatii'Eftimie Murgu'], 26 (1), ANUL XXVI, no.1, 2019, ISSN 1453 - 7397,
 		Published: :red[2019]
@@ -637,7 +637,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.24. Article Title: :green[Earthquake registration databases], Authors: Tatian-Cristian Mălin, 
+		3.27. Article Title: :green[Earthquake registration databases], Authors: Tatian-Cristian Mălin, 
 		Gilbert-Rainer Gillich, Dorian Nedelcu, Source: :blue[Analele Universitatii'Eftimie Murgu'],
 		ANUL XXVI, no. 1, 2019, ISSN 1453 - 7397, Published: :red[2019]
 	"""   )
@@ -645,7 +645,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.25. Article Title: :green[Efficient algorithm for frequency estimation used in structural 
+		3.28. Article Title: :green[Efficient algorithm for frequency estimation used in structural 
 		damage detection], Authors: Gilbert-Rainer Gillich, Dorian Nedelcu, Cristian-Tatian Malin, 
 		Istvan Biro, M. Abdel Wahab, Source: :blue[	Proceedings of the 13th International Conference on 
 		Damage Assessment of Structures], DAMAS 2019, 9-10 July 2019, Porto, Portugal, Published: :red[2019]
@@ -654,7 +654,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.26. Article Title: :green[ACCURACY OF FREQUENCY EVALUATION PERFORMED WITH THE PySINC SOFTWARE],
+		3.29. Article Title: :green[ACCURACY OF FREQUENCY EVALUATION PERFORMED WITH THE PySINC SOFTWARE],
 		Authors: Gilbert-Rainer Gillich	Dorian Nedelcu, Nicoleta Gillich, Source: :blue[The 8th International 
 		Conference on Computational Mechanics and Virtual Engineering COMEC 2019], ICMS 2019 & COMEC 2019	
 		2019-11-21...2020-01-22, Brasov, Published: :red[2019]
@@ -664,7 +664,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.27. Article Title: :green[AN ALGORITHM TO FIND THE TWO SPECTRAL LINES ON THE MAIN LOBE OF A DFT],
+		3.30. Article Title: :green[AN ALGORITHM TO FIND THE TWO SPECTRAL LINES ON THE MAIN LOBE OF A DFT],
 		Authors: Gilbert-Rainer Gillich,	Dorian Nedelcu, Andrea Amalia Minda, David Lupu, Source: :blue[	The 8th 
 		International Conference on Computational Mechanics and Virtual Engineering COMEC 2019],
 		ICMS 2019 & COMEC 2019	2019-11-21...2019-11-22, Brasov, Published: :red[2019]
@@ -673,7 +673,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.28. Article Title: :green[DIGITIZATION OF EARTHQUAKE SIGNALS STORED AS IMAGES], Authors: Tatian-Cristian Malin, 
+		3.31. Article Title: :green[DIGITIZATION OF EARTHQUAKE SIGNALS STORED AS IMAGES], Authors: Tatian-Cristian Malin, 
 		Gilbert-Rainer Gillich, Dorian Nedelcu, Vasile Iancu, Source: :blue[The 8th International Conference on Computational 
 		Mechanics and Virtual Engineering COMEC 2019] ICMS 2019 & COMEC 2019, 2019-11-21...2019-11-22, Brasov, Published: :red[2019]
 	"""   )
@@ -681,7 +681,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.29. Article Title: :green[APPRAISING THE ACCURACY OF A NOVEL MODEL FOR L-SHAPED CRACKS], Authors: Cristian Tufisi,
+		3.32. Article Title: :green[APPRAISING THE ACCURACY OF A NOVEL MODEL FOR L-SHAPED CRACKS], Authors: Cristian Tufisi,
 		Dorian Nedelcu, Gilbert-Rainer Gillich, Source: :blue[The 8th International Conference on Computational Mechanics 
 		and Virtual Engineering COMEC 2019], ICMS 2019 & COMEC 2019	2019-11-21...2019-11-22, Brasov, Published: :red[2019]
 	"""   )
@@ -689,7 +689,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.30. Article Title: :green[Comparison of the performance of friction pendulums with uniform and variable radii], 
+		3.33. Article Title: :green[Comparison of the performance of friction pendulums with uniform and variable radii], 
 		Authors: CT. Malin, D.Nedelcu, GR. Gillich, A. Petrica, I. Padurean Source: :blue[VIBROENGINEERING PROCEDIA],
 		APRIL 2019, VOLUME 23 Published: :red[2019]
 	
@@ -698,7 +698,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.31. Article Title: :green[SELF-MANAGEMENT OF MACHINES IN SMART FACTORIES VIA ADVANCED ALGORITHMS], Authors: Gillich, 
+		3.34. Article Title: :green[SELF-MANAGEMENT OF MACHINES IN SMART FACTORIES VIA ADVANCED ALGORITHMS], Authors: Gillich, 
 		Edwald-Viktor; Nedelcu, Doian; Popescu, Cristinel, Source: :blue[Annals of 'Constantin Brancusi' University of Targu-Jiu. 
 		Engineering Series], Seria Inginerie, 2019, Issue 1, p65, ISSN 1842-4856, Published: :red[2019]
 	"""   )
@@ -707,7 +707,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.32. Article Title: :green[The reverse engineering of a blade runner geometry through photogrammetry], 
+		3.35. Article Title: :green[The reverse engineering of a blade runner geometry through photogrammetry], 
 		Authors: D.Nedelcu, SL. Bogdan,  I. Padurean Source: :blue[IOP Conf. Series: Materials Science and Engineering],
 		393 (2018) 012126,  doi:10.1088/1757-899X/393/1/012126  Published: :red[2018]
 	
@@ -716,7 +716,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.33. Article Title: :green[Determining the geometric parameters of a blade runner that has a geometry 
+		3.36. Article Title: :green[Determining the geometric parameters of a blade runner that has a geometry 
 		obtained through the photogrammetry technique], Authors: SL. Bogdan, D.Nedelcu, I. Padurean 
 		Source: :blue[IOP Conf. Series: Materials Science and Engineering], 393 (2018) 012127,  
 		doi:10.1088/1757-899X/393/1/012127  Published: :red[2018]
@@ -725,7 +725,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.34. Article Title: :green[General aspects of speed  increaser gearboxes], Authors: A. Bara, 
+		3.37. Article Title: :green[General aspects of speed  increaser gearboxes], Authors: A. Bara, 
 		D.Nedelcu, C. Hatiegan, AC. Bejenariu, L.Nedeloni Source: :blue[IOP Conf. Series: Materials 
 		Science and Engineering], 294, (2018), 012032  doi:10.1088/1757-899X/294/1/012032   
 		Published: :red[2017]
@@ -734,7 +734,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.35. Article Title: :green[Optimizing the Geometry of a LHy-M Hybrid Locomotive’s Chassis 
+		3.38. Article Title: :green[Optimizing the Geometry of a LHy-M Hybrid Locomotive’s Chassis 
 		by Resistance Calculations], Authors: A. Bara, D.Nedelcu, Corneliu Dica,  Source: 
 		:blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA], ANUL XXV, no. 2, 2018, ISSN 1453 - 7397   
 		Published: :red[2018]
@@ -743,7 +743,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.36. Article Title: :green[Thermal Calculation of the Reduction Gear 2XAB/StCu110So as 
+		3.39. Article Title: :green[Thermal Calculation of the Reduction Gear 2XAB/StCu110So as 
 		Part of Hybrid Locomotive’s LHy-M Mechanical Transmission], Authors: Aurel Băra, Dorian 
 		Nedelcu, Corneliu Dica, Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA], 
 		ANUL XXV, no. 2, 2018, ISSN 1453 - 7397, Published: :red[2018]
@@ -752,7 +752,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.37. Article Title: :green[THE REVERSE ENGINEERING OF A PELTON BUCKET BY PHOTOGRAMMETRY], 
+		3.40. Article Title: :green[THE REVERSE ENGINEERING OF A PELTON BUCKET BY PHOTOGRAMMETRY], 
 		Authors: Sorin-Laurenţiu BOGDAN, Dorian NEDELCU, Ioan PĂDUREAN, Source: :blue[Proceedings 
 		of 2018 International Conference on Hydraulics and Pneumatics - HERVEX], ISSN 1454 - 8003,
 		November 7-9, Băile Govora, Romania, Published: :red[2018]
@@ -761,7 +761,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.38. Article Title: :green[STUDY ON THE EFFECT OF A SIMPLE FRICTION PENDULUM RADIUS ON THE 
+		3.41. Article Title: :green[STUDY ON THE EFFECT OF A SIMPLE FRICTION PENDULUM RADIUS ON THE 
 		RESPONSE OF ISOLATED STRUCTURES], Authors: Dorian Nedelcu, Gilbert-Rainer Gillich, Vasile 
 		Iancu, Cristian-Tatian Mălin, Source: :blue[The 42th International Conference on “Mechanics 
 		of Solids, Acoustics and Vibrations” – ICMSAV 2018], Brașov, ROMANIA, 25- 26 October, 
@@ -771,7 +771,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.39. Article Title: :green[EFFECT OF THE ORIENTATION OF AN OBLIQUE CRACK BRANCHES ON THE 
+		3.42. Article Title: :green[EFFECT OF THE ORIENTATION OF AN OBLIQUE CRACK BRANCHES ON THE 
 		BEAM EIGENFREQUENCIES], Authors: Cristian Tufisi, Gilbert-Rainer Gillich, Dorian Nedelcu, 
 		Source: :blue[The 42th International Conference on “Mechanics of Solids, Acoustics and 
 		Vibrations” – ICMSAV 2018], Brașov, ROMANIA, 25- 26 October, Published: :red[2018]
@@ -780,7 +780,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.40. Article Title: :green[Numerical study on complex shaped cracks in cantilever beams 
+		3.43. Article Title: :green[Numerical study on complex shaped cracks in cantilever beams 
 		concerning frequency and stiffness changes], Authors: Cristian Tufisi, Gilbert-Rainer Gillich, 
 		Dorian Nedelcu, Codruta-Oana Hamat, Source: :blue[33rd International Conference on VIBROENGINEERING], 
 		24-26th September, 2018 in Zittau, Germany, Published: :red[2018]
@@ -789,7 +789,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.41. Article Title: :green[Study on the effect of the friction coefficient on the
+		3.44. Article Title: :green[Study on the effect of the friction coefficient on the
 		response of structures isolated with friction pendulums], Authors: Dorian Nedelcu, 
 		Vasile Iancu, Gilbert-Rainer Gillich, Sorin Laurentiu Bogdan, Source: :blue[33rd 
 		International Conference on VIBROENGINEERING], 24-26th September, 2018 in Zittau, 
@@ -799,7 +799,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.42. Article Title: :green[A procedure for an accurate estimation of the natural 
+		3.45. Article Title: :green[A procedure for an accurate estimation of the natural 
 		frequencies of structures], Authors: Gilbert-Rainer Gillich, Ion Cornel Mituletu,
 		Dorian Nedelcu, Codruta Oana Hamat, Source: :blue[33rd 	International Conference 
 		on VIBROENGINEERING], 24-26th September, 2018 in Zittau, Germany, Published: :red[2018]
@@ -808,7 +808,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.43. Article Title: :green[The Structural Analysis of the Classic Constructive Solution of a 
+		3.46. Article Title: :green[The Structural Analysis of the Classic Constructive Solution of a 
 		Bridge Deck with a Railroad – Part I], Authors: T. Ene, D.Nedelcu, Source: :blue[
 		ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA], ANUL XXIV, no. 1, 2017, ISSN 1453 - 7397,
 		Published: :red[2017]
@@ -817,7 +817,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.44. Article Title: :green[The improvement of the classic constructive solution of a bridge 
+		3.47. Article Title: :green[The improvement of the classic constructive solution of a bridge 
 		deck with a railroad – Part II], Authors: T. Ene, D.Nedelcu, Source: :blue[
 		ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA], ANUL XXIV, no. 1, 2017, ISSN 1453 - 7397,
 		Published: :red[2017]
@@ -827,7 +827,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.45. Article Title: :green[Sustainable development and CAD], Authors: A. Rajic, D.Nedelcu, 
+		3.48. Article Title: :green[Sustainable development and CAD], Authors: A. Rajic, D.Nedelcu, 
 		Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA], ANUL XXIV, no. 1, 2017, 
 		ISSN 1453 - 7397, Published: :red[2017]
 	"""   )
@@ -836,7 +836,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.46. Article Title: :green[Analysis and Processing of Index Tests Results at 
+		3.49. Article Title: :green[Analysis and Processing of Index Tests Results at 
 		Double-Adjust Hydraulic Turbines with a Computer-Aided Design Software], 
 		Authors: A.Cuzmos, D.Nedelcu, CV. Campian, F. Cristian, AM. Budai Source: 
 		:blue[Applied Mechanics and Materials], Vol. 823, (2016), pp 396-401,
@@ -847,7 +847,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.47. Article Title: :green[DESFĂŞURAREA VIROLELOR UNEI CAMERE SPIRALE UTILIZÂND 
+		3.50. Article Title: :green[DESFĂŞURAREA VIROLELOR UNEI CAMERE SPIRALE UTILIZÂND 
 		MODULUL SHEET METAL DIN SOLIDWORKS], Authors: D.Nedelcu, V. Iancu Source: :blue[
 		A XVI-a Conferinţă internaţională – multidisciplinară,  'Profesorul Dorin Pavel - 
 		fondatorul hidroenergeticii româneşti'], Sebes, Published: :red[2016]
@@ -856,7 +856,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.48. Article Title: :green[RECONSTITUIREA GEOMETRIEI COMPONENTELOR MECANICE PRIN 
+		3.51. Article Title: :green[RECONSTITUIREA GEOMETRIEI COMPONENTELOR MECANICE PRIN 
 		FOTOGRAMETRIE PARTEA I], Authors: D.Nedelcu, :blue[
 		A XVI-a Conferinţă internaţională – multidisciplinară,  'Profesorul Dorin Pavel - 
 		fondatorul hidroenergeticii româneşti'], Sebes, Published: :red[2016]
@@ -865,7 +865,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.49. Article Title: :green[RECONSTITUIREA GEOMETRIEI COMPONENTELOR MECANICE PRIN 
+		3.52. Article Title: :green[RECONSTITUIREA GEOMETRIEI COMPONENTELOR MECANICE PRIN 
 		FOTOGRAMETRIE PARTEA II], Authors: D.Nedelcu, Source: :blue[
 		A XVI-a Conferinţă internaţională – multidisciplinară,  'Profesorul Dorin Pavel - 
 		fondatorul hidroenergeticii româneşti'], Sebes, Published: :red[2016]
@@ -874,7 +874,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.50. Article Title: :green[The 3D reconstruction and dimensional control of the reference part], 
+		3.53. Article Title: :green[The 3D reconstruction and dimensional control of the reference part], 
 		Authors: D.Nedelcu, BS. Laurentiu, A. Rajic Source: :blue[
 		The 5th Scientific Conference "Entrepreneurship, Engineering and Management", PIM5], 
 		Technical College of Applied Sciences in Zrenjanin, pp 49-56, Published: :red[2016]
@@ -884,7 +884,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.51. Article Title: :green[The Calculation of the Pelton and Francis Turbine Hill 
+		3.54. Article Title: :green[The Calculation of the Pelton and Francis Turbine Hill 
 		Chart Using the HydroHillChart Software], Authors: D.Nedelcu, A. Ghican, Source: :blue[
 		'HIDRAULICA-Magazine of Hydraulics, Pneumatics, Tribology, Ecology, Sensorics, Mechatronics'], 
 		No. 4/2015, ISSN 1453 – 7303, Published: :red[2015]
@@ -893,7 +893,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.52. Article Title: :green[The Hill Chart Calculation for Francis Runner Models
+		3.55. Article Title: :green[The Hill Chart Calculation for Francis Runner Models
 		using the HydroHillChart - Francis Module Software ], Authors: D.Nedelcu, 
 		A. Bostan, F. Peris-Bendu Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” 
 		REŞIŢA'], ANUL XXII, no. 1, 2015,ISSN 1453 - 7397, Published: :red[2015]
@@ -902,7 +902,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.53. Article Title: :green[The Hill Chart Calculation for Pelton Runner Models
+		3.56. Article Title: :green[The Hill Chart Calculation for Pelton Runner Models
 		using the HydroHillChart - Pelton Module Software], Authors: A. Bostan,D.Nedelcu, 
 		 F. Peris-Bendu Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” 
 		REŞIŢA'], ANUL XXII, no. 1, 2015,ISSN 1453 - 7397, Published: :red[2015]
@@ -911,7 +911,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.54. Article Title: :green[HydroHillChart – Francis module. Software used to
+		3.57. Article Title: :green[HydroHillChart – Francis module. Software used to
 		Calculate the Hill Chart of the Francis Hydraulic Turbines], Authors: 
 		D.Nedelcu, A. Bostan, F. Peris-Bendu Source: :blue[ANALELE UNIVERSITĂŢII 
 		“EFTIMIE MURGU” REŞIŢA'], ANUL XXII, no. 1, 2015,ISSN 1453 - 7397, 
@@ -921,7 +921,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.55. Article Title: :green[HydroHillChart – Pelton module. Software used to
+		3.58. Article Title: :green[HydroHillChart – Pelton module. Software used to
 		Calculate the Hill Chart of the Pelton Hydraulic Turbines], Authors: 
 		D.Nedelcu, A. Bostan, F. Peris-Bendu Source: :blue[ANALELE UNIVERSITĂŢII 
 		“EFTIMIE MURGU” REŞIŢA'], ANUL XXII, no. 1, 2015,ISSN 1453 - 7397, 
@@ -931,7 +931,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.56. Article Title: :green[CONSIDERAŢII PRIVIND CONCEPŢIA MODELULUI DE VANĂ 
+		3.59. Article Title: :green[CONSIDERAŢII PRIVIND CONCEPŢIA MODELULUI DE VANĂ 
 		FLUTURE DESTINAT EFECTUĂRII CERCETĂRILOR EXPERIMENTALE], Authors: F. Peris-Bendu, 
 		A. Bostan, D.Nedelcu,Source: :blue[A XV-a Conferinţă internaţională – multidisciplinară,  
 		'Profesorul Dorin Pavel - fondatorul hidroenergeticii româneşti'], Sebes, 
@@ -941,7 +941,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.57. Article Title: :green[CONSIDERAŢII PRIVIND CERCETĂRILE EXPERIMENTALE 
+		3.60. Article Title: :green[CONSIDERAŢII PRIVIND CERCETĂRILE EXPERIMENTALE 
 		REALIZATE PE UN MODEL DE VANĂ FLUTURE], Authors: F. Peris-Bendu, A. Bostan,
 		D.Nedelcu,Source: :blue[A XV-a Conferinţă internaţională – multidisciplinară,  
 		'Profesorul Dorin Pavel - fondatorul hidroenergeticii româneşti'], Sebes, 
@@ -951,7 +951,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.58. Article Title: :green[Theoretical and Experimental Research Performed on
+		3.61. Article Title: :green[Theoretical and Experimental Research Performed on
 		the Tesla Turbine - Part I], Authors: D.Nedelcu, P. Guran, A. Cantaragiu
 		Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA'], ANUL XXII, no. 2, 
 		2015,ISSN 1453 - 7397, Published: :red[2015]
@@ -960,7 +960,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.59. Article Title: :green[Theoretical and Experimental Research Performed on
+		3.62. Article Title: :green[Theoretical and Experimental Research Performed on
 		the Tesla Turbine – Part II], Authors: D.Nedelcu, EV. Gillich, V. Iancu, F. Muntean
 		Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA'], ANUL XXII, no. 2, 
 		2015,ISSN 1453 - 7397, Published: :red[2015]
@@ -969,7 +969,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.60. Article Title: :green[APPLICATIONS OF THE ADDITIVE MANUFACTURING TECHNOLOGY 
+		3.63. Article Title: :green[APPLICATIONS OF THE ADDITIVE MANUFACTURING TECHNOLOGY 
 		TO MANUFACTURE THE HIP IMPLANTS], Authors: A. Rajic, S. STOJADINOVIC, D.Nedelcu, 
 		E. DESNICA, L. a LAZIC VULICEVIC, Source: :blue[ANNALS of Faculty Engineering Hunedoara  
 		– International Journal of EngineeringTome XII [2014] – Fascicule 2 [May] 
@@ -979,7 +979,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.61. Article Title: :green[CONSIDERAŢII PRIVIND OPTIMIZAREA FORMEI DISCULUI LA O 
+		3.64. Article Title: :green[CONSIDERAŢII PRIVIND OPTIMIZAREA FORMEI DISCULUI LA O 
 		VANĂ FLUTURE PENTRU REDUCEREA COEFICIENTULUI DE REZISTENŢĂ HIDRAULICĂ], Authors: 
 		F. Peris-Bendu, D.Nedelcu, V. Campian, Source: :blue[A XIV-a Conferinţă internaţională 
 		– multidisciplinară, 'Profesorul Dorin Pavel - fondatorul hidroenergeticii româneşti'], 
@@ -989,7 +989,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.62. Article Title: :green[APLICAREA INGINERIEI INVERSE PENTRU RECONSTRUCŢIA GEOMETRIEI 
+		3.65. Article Title: :green[APLICAREA INGINERIEI INVERSE PENTRU RECONSTRUCŢIA GEOMETRIEI 
 		UNUI DRAGON], Authors: D.Nedelcu, Source: :blue[A XIV-a Conferinţă internaţională 
 		– multidisciplinară, 'Profesorul Dorin Pavel - fondatorul hidroenergeticii româneşti'], 
 		Volumul 26, Sebes, Published: :red[2014]
@@ -999,7 +999,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.63. Article Title: :green[RESEARCH REGARDING THE CAVITATION EROSION RESISTANCE OF THE
+		3.66. Article Title: :green[RESEARCH REGARDING THE CAVITATION EROSION RESISTANCE OF THE
 		STAINLESS STEEL WITH 13% Cr AND 4% Ni USED TO MANUFACTURE THE COMPONENTS OF KAPLAN, FRANCIS 
 		AND PELTON HYDRAULIC TURBINES], Authors: NEDELONI MARIAN-DUMITRU, NEDELCU DORIAN, CÂMPIAN 
 		VIOREL CONSTANTIN, CHIRUS DANIEL, AVASILOAIE RAOUL-CRISTIAN, DĂNUł FLOREA, Source: :blue[
@@ -1010,7 +1010,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.64. Article Title: :green[NUMERICAL SIMULATION OF THE SHORT FLEXIBLE WHEEL 
+		3.67. Article Title: :green[NUMERICAL SIMULATION OF THE SHORT FLEXIBLE WHEEL 
 		OF THE DOUBLE HARMONIC GEAR TRANSMISSION], Authors: IANICI DRAGHIŢA, NEDELCU 
 		DORIAN, IANICI SAVA, Source: :blue[Constanta Maritime University Annals], 
 		Year XIV, Vol.20, Published: :red[2013]
@@ -1020,7 +1020,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.65. Article Title: :green[APLICAREA INGINERIEI INVERSE PENTRU RECONSTRUCŢIA 
+		3.68. Article Title: :green[APLICAREA INGINERIEI INVERSE PENTRU RECONSTRUCŢIA 
 		GEOMETRIEI UNUI ROTOR], Authors: Dorian NEDELCU, Raoul AVASILOAIE, Dănuţ FLOREA, 
 		Source: :blue[A XIII-a Conferinţă internaţională – multidisciplinară, 'Profesorul 
 		Dorin Pavel - fondatorul hidroenergeticii româneşti'], Sebes, Published: :red[2013]
@@ -1029,7 +1029,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.66. Article Title: :green[STUDIUL NUMERIC AL CONCENTRATORULUI DE TENSIUNE PENTRU
+		3.69. Article Title: :green[STUDIUL NUMERIC AL CONCENTRATORULUI DE TENSIUNE PENTRU
 		O BARĂ CU CRESTĂTURI ÎN „V” SUPUSĂ SOLICITĂRII DE ÎNTINDERE], Authors: Dorian NEDELCU, 
 		Dănuţ FLOREA, Raoul AVASILOAIE Source: :blue[A XIII-a Conferinţă internaţională – multidisciplinară, 'Profesorul 
 		Dorin Pavel - fondatorul hidroenergeticii româneşti'], Sebes, Published: :red[2013]
@@ -1038,7 +1038,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.67. Article Title: :green[CONSIDERAŢII PRIVIND SOLUŢII MODERNE ÎN
+		3.70. Article Title: :green[CONSIDERAŢII PRIVIND SOLUŢII MODERNE ÎN
 		PROIECTAREA VANELOR FLUTURE CU DISC BIPLAN], Authors: Florin PERIŞ-BENDU, 
 		Dorian NEDELCU, Constantin Viorel CÂMPIAN Source: :blue[A XIII-a Conferinţă 
 		internaţională – multidisciplinară, 'Profesorul Dorin Pavel - fondatorul 
@@ -1048,7 +1048,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.68. Article Title: :green[Considerations Regarding the Stresses and the
+		3.71. Article Title: :green[Considerations Regarding the Stresses and the
 		Deformations of the Butterfly Valve Body], Authors: Florin Peris-Bendu, 
 		Adelina Bostan, Viorel Câmpian, Dorian NedelcuSource: :blue[ANALELE 
 		UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA'], ANUL XX, no. 1, 2013, ISSN 1453 - 7397, 
@@ -1059,7 +1059,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.69. Article Title: :green[THE PELTON RUNNER DESIGN METHODOLOGY], Authors: 
+		3.72. Article Title: :green[THE PELTON RUNNER DESIGN METHODOLOGY], Authors: 
 		Hopota Adrian, Nedelcu Dorian, Avasiloaie Raoul Source: :blue[
 		THINK-HYDRO Conference], Resita, Published: :red[2013]
 	"""   )
@@ -1068,7 +1068,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.70. Article Title: :green[MICROHYDROPOWER WITH PERMANENT MAGNET
+		3.73. Article Title: :green[MICROHYDROPOWER WITH PERMANENT MAGNET
 		GENERATOR AND IMMERSED RUNNER], Authors: Nedelcu Dorian, Hopota 
 		Adrian, Florea Dănuţ Source: :blue[	THINK-HYDRO Conference], 
 		Resita, Published: :red[2013]
@@ -1078,7 +1078,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.71. Article Title: :green[APPLICATIONS OF THE ADDITIVE MANUFACTURING
+		3.74. Article Title: :green[APPLICATIONS OF THE ADDITIVE MANUFACTURING
 		TECHNOLOGY TO MANUFACTURE THE HIP IMPLANTS], Authors: Aleksandar Rajic, 
 		Slobodan Stojadinovic, Dorian Nedelcu, Eleonora Desnica, Ljubica Lazic 
 		Vulicevic Source: :blue[III International Conference Industrial Engineering 
@@ -1090,7 +1090,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.72. Article Title: :green[The Reverse Engineering of a Spring Support using
+		3.75. Article Title: :green[The Reverse Engineering of a Spring Support using
 		the Noomeo Optinum 3D Scanner and the Rapidform XOR3 Software], Authors: 
 		Dorian Nedelcu, Aleksandar Rajic, DănuŃ Florea, Raoul Avasiloaie  Source: 
 		:blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA'], ANUL XX, no. 1, 2013, 
@@ -1100,7 +1100,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.73. Article Title: :green[Applications of the Rapid Prototyping Technology to
+		3.76. Article Title: :green[Applications of the Rapid Prototyping Technology to
 		Manufacture the Pelton Runners], Authors: Dorian Nedelcu, Raoul Avasiloaie, 
 		Dănut Florea, Aleksandar Rajic, Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE 
 		MURGU” REŞIŢA'], ANUL XX, no. 1, 2013, ISSN 1453 - 7397, Published: :red[2013]
@@ -1109,7 +1109,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.74. Article Title: :green[Determine the Correlation between Wicked Gates
+		3.77. Article Title: :green[Determine the Correlation between Wicked Gates
 		Angles and Servomotors Strokes for Asymmetric Hydrofoil], Authors: Daniel Daia, 
 		Dorian Nedelcu , Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE 
 		MURGU” REŞIŢA'], ANUL XX, no. 1, 2013, ISSN 1453 - 7397 , Published: :red[2013]
@@ -1118,7 +1118,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.75. Article Title: :green[Variants of sonotrode for a vibratory apparatus for 
+		3.78. Article Title: :green[Variants of sonotrode for a vibratory apparatus for 
 		test cavitation erosion by the indirect method], Authors: Nedeloni M.D., 
 		Nedelcu D.  Source: :blue[Constanta Maritime University Annals],Vol.17, 
 		Year XIII, ISSN 1582-3601, Published: :red[2012]
@@ -1128,7 +1128,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.76. Article Title: :green[Calibration of a sonotrode from a stand component for test 
+		3.79. Article Title: :green[Calibration of a sonotrode from a stand component for test 
 		cavitation erosion through direct method], Authors: Nedeloni M.D., Nedelcu D., Ion I., 
 		Ciubotariu R.  Source: :blue[Constanta Maritime University Annals],Vol.17, Year XIII, 
 		ISSN 1582-3601, Published: :red[2012]
@@ -1138,7 +1138,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.77. Article Title: :green[Cavitation Erosion Tests Performed by Indirect Vibratory Method 
+		3.80. Article Title: :green[Cavitation Erosion Tests Performed by Indirect Vibratory Method 
 		on Stainless Steel Welded Samples with Hardened Surface], Authors: Nedeloni M.D., Cojocaru V., 
 		Ciubotariu R.,Nedelcu D., Source: :blue[	ANALELE UNIVERSITĂŢII “EFTIMIE MURGU”],	ANUL XIX, 
 		no. 1, ISSN 1453-7397, Published: :red[2012]
@@ -1147,7 +1147,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.78. Article Title: :green[Research through Direct and Indirect Cavitation Method for a 
+		3.81. Article Title: :green[Research through Direct and Indirect Cavitation Method for a 
 		Aluminum Specimen], Authors: Nedeloni M.D., Nedelcu D., Source: :blue[	ANALELE 
 		UNIVERSITĂŢII “EFTIMIE MURGU”],	ANUL XIX, no. 1, ISSN 1453-7397, Published: :red[2012]
 	"""   )
@@ -1155,7 +1155,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.79. Article Title: :green[PROTOTIPAREA RAPIDĂ A UNUI ROTOR PELTON], Authors: 
+		3.82. Article Title: :green[PROTOTIPAREA RAPIDĂ A UNUI ROTOR PELTON], Authors: 
 		Dorian NEDELCU, Florentin Mirel POP, Vasile COJOCARU,Adrian HOPOTA, Source: 
 		:blue[A XIII-a Conferinţă internaţională – multidisciplinară, 'Profesorul 
 		Dorin Pavel - fondatorul hidroenergeticii româneşti'], Published: :red[2012]
@@ -1164,7 +1164,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.80. Article Title: :green[RECONSTITUIREA GEOMETRIEI UNUI IMPLANT DE GENUNCHI], 
+		3.83. Article Title: :green[RECONSTITUIREA GEOMETRIEI UNUI IMPLANT DE GENUNCHI], 
 		Authors: Dorian NEDELCU, Vasile COJOCARU, Source: :blue[A XIII-a Conferinţă 
 		internaţională – multidisciplinară, 'Profesorul Dorin Pavel - fondatorul 
 		hidroenergeticii româneşti'], Published: :red[2012]
@@ -1173,7 +1173,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.81. Article Title: :green[Hydrodynamics automatic optimization of runner blades for
+		3.84. Article Title: :green[Hydrodynamics automatic optimization of runner blades for
 		reaction hydraulic turbines ], Authors: D Balint, V Câmpian, D Nedelcu,O. Megheles , 
 		Source: :blue[26th IAHR Symposium on Hydraulic Machinery and Systems - IOP Conf. 
 		Series: Earth and Environmental Science 15 (2012) 032014], doi:10.1088/1755-1315/15/3/032014
@@ -1183,7 +1183,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.82. Article Title: :green[Aplicarea tehnologiilor de prototipare rapidă şi reconstituire 
+		3.85. Article Title: :green[Aplicarea tehnologiilor de prototipare rapidă şi reconstituire 
 		geometrie în turnarea pieselor], Authors: Dorian Nedelcu, Lupinca Cinca Ionel,Source: :blue[
 		A 21-a CONFERINTA NATIONALA DE TURNATORIE], June 2012, IASI, ROMÂNIA Published: :red[2012]
 	"""   )
@@ -1192,7 +1192,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.83. Article Title: :green[FINITE ELEMENT ANALYSIS AND DYNAMIC ANALYSIS OF THE
+		3.86. Article Title: :green[FINITE ELEMENT ANALYSIS AND DYNAMIC ANALYSIS OF THE
 		OUTER BEARING BUSH FROM THE BLADE ADJUSTMENT MECHANISM OF KAPLAN TURBINES], 
 		Authors: Dorian NEDELCU, Vasile COJOCARU, Source: :blue[The 4th International Conference
 		'Computational Mechanics and Virtual Engineering' COMEC 2011], 20-22 OCTOBER 2011, 
@@ -1202,7 +1202,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.84. Article Title: :green[A Numerical Study of the Local Stress for a Fillet with 
+		3.87. Article Title: :green[A Numerical Study of the Local Stress for a Fillet with 
 		Tensile Force Applied on a Rectangular Plate], Authors: Dorian Nedelcu, Marian-Dumitru 
 		Nedeloni, Draghiţa Ianici, Daniel Daia, Florentin Mirel Pop, Raoul Cristian Avasiloaie, 
 		Source: :blue[ANALELE UNIVERSITĂŢII “EFTIMIE MURGU” REŞIŢA], ANUL XVIII, no. 1, 2011, 
@@ -1213,7 +1213,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.85. Article Title: :green[Numerical Investigations of Flow on the Kaplan Turbine 
+		3.88. Article Title: :green[Numerical Investigations of Flow on the Kaplan Turbine 
 		Runner Blade Anticavitation Lip with Modified Cross Section], Authors: Vasile Cojocaru, 
 		Daniel Balint, Viorel Constantin Campian, Dorian Nedelcu and Camelia Jianu, 
 		Source: :blue[Proceedings of the 2nd International Conference on Fluid Mechanics
@@ -1225,7 +1225,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.86. Article Title: :green[The Kinematic and Dynamic Analysis of the Crank Mechanism 
+		3.89. Article Title: :green[The Kinematic and Dynamic Analysis of the Crank Mechanism 
 		with SolidWorks Motion], Authors: Dorian Nedelcu, MARIAN-DUMITRU NEDELONI, DANIEL DAIA, 
 		Source: :blue[Recent Advances in Signal Processing, Computational Geometry and Systems Theory] 
 		Florence, Italy, August 23-25, ISBN: 978-1-61804-027-5, pg. 245-250, Published: :red[2011]
@@ -1234,7 +1234,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.87. Article Title: :green[Calculul fortei aerodinamice si distributiei de presiuni pentru 
+		3.90. Article Title: :green[Calculul fortei aerodinamice si distributiei de presiuni pentru 
 		un cos vertical], Authors: Dorian Nedelcu, Draghita Ianici, Marian-Dumitru Nedeloni, Daniel Daia, 
 		Florentin Mirel Pop, Raoul Cristian Avasiloaie Source: :blue[Conferinta Nationala multidisciplinara-
 		cu participare internationala „Profesorul Dorin PAVEL-Fondatorul hidroenergeticii romanesti”] 
@@ -1245,7 +1245,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.88. Article Title: :green[Metallographic and Numerical Methods Investigations about 
+		3.91. Article Title: :green[Metallographic and Numerical Methods Investigations about 
 		Failure of a Kaplan Turbine Runner Blade], Authors: Doina Frunzăverde, Viorel Câmpian, 
 		Dorian Nedelcu, Gilbert-Rainer Gillich, Gabriela Mărginean, Source: :blue[WSEAS TRANSACTIONS
 		on FLUID MECHANICS] ISSN: 1790-5087], Issue 1, Volume 5, Published: :red[2010]
@@ -1254,7 +1254,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.89. Article Title: :green[Numerical behavior reproduction of a truss structure and beam, 
+		3.92. Article Title: :green[Numerical behavior reproduction of a truss structure and beam, 
 		subjected to concentrated load], Authors: Nedelcu Dorian, Ianici Draghita, Nedeloni Marian, 
 		Daia Daniel, Source: :blue[Analele Universității “Eftimie Murgu” Reşiţa] ISSN 1453 – 7397	
 		Anul XVII, no. 1, Published: :red[2010]
@@ -1263,7 +1263,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.90. Article Title: :green[Determination of Double Flexible Toothed Wheel Length 
+		3.93. Article Title: :green[Determination of Double Flexible Toothed Wheel Length 
 		function of Elasticity Module], Authors: D.G. Vela, D. Nedelcu, I. Vela, Source: 
 		:blue[Analele Universității “Eftimie Murgu” Reşiţa Fascicula de Inginerie], no. 1 ,
 		ISSN 1453 -7394,Published: :red[2010]
@@ -1273,7 +1273,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.91. Article Title: :green[The Geometry Optimisation of a Triple Branch Pipe 
+		3.94. Article Title: :green[The Geometry Optimisation of a Triple Branch Pipe 
 		using Finite Element Method], Authors: Nedelcu Dorian Cojocaru Vasile, 
 		Călin-Octavian Micloşină, Source: :blue[Analele Universității “Eftimie Murgu” 
 		Reşiţa], ISSN 1453-7394, Published: :red[2008]
@@ -1282,7 +1282,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.92. Article Title: :green[The Parametrical Design of the Parts from the same 
+		3.95. Article Title: :green[The Parametrical Design of the Parts from the same 
 		Tehnological Family], Authors: Cojocaru Vasile Nedelcu Dorian, Călin-Octavian 
 		Micloşină, Source: :blue[Analele Universității “Eftimie Murgu” 
 		Reşiţa], ISSN 1453-7394, Published: :red[2008]
@@ -1292,7 +1292,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.93. Article Title: :green[Mobile Robot Command], Authors: Călin-Octavian 
+		3.96. Article Title: :green[Mobile Robot Command], Authors: Călin-Octavian 
 		Micloşină, Codruta-Oana Hamat, Nedelcu Dorian, Cojocaru Vasile, Source: 
 		:blue[Analele Universității “Eftimie Murgu” 
 		Reşiţa], ISSN 1453-7394, Published: :red[2008]
@@ -1302,7 +1302,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.94. Article Title: :green[Index tests performed on a Francis turbine 
+		3.97. Article Title: :green[Index tests performed on a Francis turbine 
 		from HPP Ruieni], Authors: Cuzmoş Adrian, Dumbravă Cosmin, Câmpian 
 		Constantin Viorel, Nedelcu Dorian, Source: :blue[Analele Universității 
 		“Eftimie Murgu” Reşiţa], ISSN 1453-7394, Published: :red[2008]
@@ -1311,7 +1311,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.95. Article Title: :green[Hydrodynamic Design and Numerical Analysis 
+		3.98. Article Title: :green[Hydrodynamic Design and Numerical Analysis 
 		of a New Francis Turbine with High Specific Speed], Authors: Bobar Maria,
 		Zsembinszki Stefan, Muntean Sebastian, Nedelcu Dorian, Source: :blue[Scientific 
 		Bulletin of the "Politehnica" University of Timisoara, Transactions on Mechanics], 
@@ -1322,7 +1322,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.96. Article Title: :green[Research upon Cavitation Erosion Resistance of Heat 
+		3.99. Article Title: :green[Research upon Cavitation Erosion Resistance of Heat 
 		Treated Martensitic Stainless Steels], Authors: Padurean Ioan Trusculescu Marin, 
 		Nedelcu Dorian, Megheles Octavian, Popoviciu Mircea Octavian, Hota Ioan, Source: 
 		:blue[Scientific Bulletin of the "Politehnica" University of Timisoara, Transactions 
@@ -1333,7 +1333,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.97. Article Title: :green[About Influences of the Structural State in Cavitation 
+		3.100. Article Title: :green[About Influences of the Structural State in Cavitation 
 		Erosion Resistance of Thermally Treated Austenitic Stainless Steels], Authors: Padurean 
 		Ioan Trusculescu Marin, Nedelcu Dorian, Megheles Octavian, Popoviciu Mircea Octavian, 
 		Hota Ioan, Source: 	:blue[Scientific Bulletin of the "Politehnica" University of Timisoara, 
@@ -1344,7 +1344,7 @@ def app():
 
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.98. Article Title: :green[Influence of the Heat Treatment to the Cavitation Erosion 
+		3.101. Article Title: :green[Influence of the Heat Treatment to the Cavitation Erosion 
 		Resistance of Austenitic Stainless Steel], Authors: Pădurean Ioan Nedelcu Dorian, 
 		Fay Arpad, Micloşină Călin, Source: 	:blue[Scientific Bulletin of the "Politehnica" 
 		University of Timisoara, Transactions on Mechanics],  Tom 53 (67), Fasc. 4, ISSN 1224-6077 
@@ -1363,7 +1363,7 @@ def app():
 #
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.99. Article Title: :green[Efficiency Measurements on Unit No.1 in Remeti Hydro Power 
+		3.102. Article Title: :green[Efficiency Measurements on Unit No.1 in Remeti Hydro Power 
 		Plant], Authors: Campian Constantin Viorel Nedelcu Dorian, Grando Ioan, Cuzmos Adrian, 
 		Dumbrava Cosmin, Source: :blue[Scientific Bulletin of the "Politehnica" University of Timisoara, 
 		Transactions on Mechanics],  Tom 53 (67), Fasc. 4, ISSN 1224-6077, Published: :red[2008]
@@ -1373,7 +1373,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.100. Article Title: :green[About the Convergence of the Finite Elements Analysis], 
+		3.103. Article Title: :green[About the Convergence of the Finite Elements Analysis], 
 		Authors: Nedelcu Dorian Micloşină Călin-Octavian, Pădurean Ioan, Source: :blue[Scientific 
 		Bulletin of the "Politehnica" University of Timisoara, Transactions on Mechanics],  
 		Tom 53 (67), Fasc. 4, ISSN 1224-6077, Published: :red[2008]
@@ -1383,7 +1383,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.101. Article Title: :green[Stress and Deformations on Pelton Turbine Blade Calculated 
+		3.104. Article Title: :green[Stress and Deformations on Pelton Turbine Blade Calculated 
 		by Finite Element Method], Authors: Nedelcu Dorian, Constantin Viorel Campian, Ioan Padurean, 
 		Source: :blue[Scientific Bulletin of the "Politehnica" University of Timisoara, 
 		Transactions on Mechanics],  Tom 53 (67), Fasc. 4, ISSN 1224-6077, Published: :red[2008]
@@ -1393,7 +1393,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.102. Article Title: :green[Service life estimation for runner’s blade of an axial turbine], 
+		3.105. Article Title: :green[Service life estimation for runner’s blade of an axial turbine], 
 		Authors: Nedelcu Dorian Câmpian C. Viorel, Padurean Ioan, 
 		Source: :blue[Revista Academie Roumaine, Revue Roumaine des Sciences Techniques, Serie 
 		de Mecanique Applique], Tom 53, No. 1, ISSN 0035-4074, Published: :red[2008]
@@ -1402,7 +1402,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.103. Article Title: :green[The design of an Kaplan turbine Runner using Autodesk Inventor], 
+		3.106. Article Title: :green[The design of an Kaplan turbine Runner using Autodesk Inventor], 
 		Authors: Nedelcu Dorian, Padurean Ioan, Source: :blue[Scientific Bulletin of the "Politehnica" 
 		University of Timisoara, Transactions on Mechanics], Published: :red[2007]
 	"""   )
@@ -1411,7 +1411,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.104. Article Title: :green[Computer aided design of an Draft Tube’s Elbow for hydraulic turbine 
+		3.107. Article Title: :green[Computer aided design of an Draft Tube’s Elbow for hydraulic turbine 
 		using Microstation], Authors: Nedelcu Dorian, Padurean Ioan, Source: :blue[Scientific Bulletin of 
 		the "Politehnica" University of Timisoara, Transactions on Mechanics], Published: :red[2007]
 	"""   )
@@ -1420,7 +1420,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.105. Article Title: :green[CAD modelling of an axial blade turbine using Autodesk Inventor], 
+		3.108. Article Title: :green[CAD modelling of an axial blade turbine using Autodesk Inventor], 
 		Authors: Nedelcu Dorian, Padurean Ioan, Source: :blue[Scientific Bulletin of 
 		the "Politehnica" University of Timisoara, Transactions on Mechanics], Published: :red[2007]
 	"""   )
@@ -1429,7 +1429,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.106. Article Title: :green[Stress and deformations  on axial blade turbine calculated 
+		3.109. Article Title: :green[Stress and deformations  on axial blade turbine calculated 
 		by finite elements method],  Authors: Nedelcu Dorian, Padurean Ioan, Source: :blue[Scientific 
 		Bulletin of the "Politehnica" University of Timisoara, Transactions on Mechanics], 
 		Published: :red[2007]
@@ -1439,7 +1439,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.107. Article Title: :green[FAILURE ANALYSIS OF A KAPLAN TURBINE RUNNER BLADE],  
+		3.110. Article Title: :green[FAILURE ANALYSIS OF A KAPLAN TURBINE RUNNER BLADE],  
 		Authors: Viorel C. Câmpian, Doina Frunzăverde, Nedelcu Dorian, Gabriela Mărginean, 
 		Source: :blue[IAHR 24th Symposium on Hydraulic Machinery and Systems], 
 		OCTOBER 27-31, FOZ DO IGUASSU. Brazil
@@ -1450,7 +1450,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.108. Article Title: :green[Cosmos Design Star study: The tensile tests of the 
+		3.111. Article Title: :green[Cosmos Design Star study: The tensile tests of the 
 		rectangular plate with stress concentrators],  Authors: Nedelcu Dorian, Padurean Ioan, 
 		Source: :blue[Revista Academie Roumaine, Revue Roumaine des Sciences Techniques, 
 		Serie de Mecanique Applique], Tom 52, No. 3, September-December, ISSN 0035-4074
@@ -1461,7 +1461,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.109. Article Title: :green[Influence of structural state on cavitational erosion 
+		3.112. Article Title: :green[Influence of structural state on cavitational erosion 
 		of martensitic stainless steel GX4CRNI 13-4 quenching tempering and nitriding],	Authors: 
 		Padurean Ioan, Nedelcu Dorian, Source: :blue[Scientific Bulletin of the "Politehnica" 
 		University of Timisoara, Transactions on Mechanics],ISSN 1224-6077, Published: :red[2007]
@@ -1471,7 +1471,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.110. Article Title: :green[Computer Aided Design of an Admission Valve with Autodesk 
+		3.113. Article Title: :green[Computer Aided Design of an Admission Valve with Autodesk 
 		Inventor],  Authors: Nedelcu Dorian, Source: :blue[Analele Universitatii "Eftimie 
 		Murgu " Resita], ANUL XIV, no. 1, 2007, ISSN 1453 - 7397, Published: :red[2007]
 	"""   )
@@ -1479,7 +1479,7 @@ def app():
 	
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.111. Article Title: :green[EXPERIMENTAL RESEARCHES UPON CAVITATION EROSION RESISTANCE 
+		3.114. Article Title: :green[EXPERIMENTAL RESEARCHES UPON CAVITATION EROSION RESISTANCE 
 		OF THE AUSTENITIC STAINLESS STEEL HEAT TREATING BY SOLUTION TREATMENT AND NITRIDING],
 		Authors: Ioan PĂDUREAN, Nedelcu Dorian, Source: :blue[SCIENTIFIC BULLETIN OF THE 
 		„POLITEHNICA” UNIVERSITY OF TIMISOARA, ROMANIA Transactions  on  MECHANIC], Tom 52 
@@ -1490,7 +1490,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.112. Article Title: :green[Numerical simulation of the stress and deformation 
+		3.115. Article Title: :green[Numerical simulation of the stress and deformation 
 		zone on the cabin’s framework of a mobile equipment],  Authors: Nedelcu Dorian, 
 		Mănescu Tiberiu Ştefan, Source: :blue[Meridian Ingineresc],  no. 2,  Editura U.T.M., 
 		Chişinău, ISSN 1683-853X, Published: :red[2007]
@@ -1499,7 +1499,7 @@ def app():
 	
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
-		3.113. Article Title: :green[Finite Element Analysis Through COSMOS M/Design STAR],  
+		3.116. Article Title: :green[Finite Element Analysis Through COSMOS M/Design STAR],  
 		Authors: Nedelcu Dorian, Mănescu Tiberiu Ştefan, C.V.Campian, Source: 
 		:blue[FME Transactions, Faculty of Mechanical Engineering, Belgrade], Volume 32, 
 		Number 1, pg. 36-42, Published: :red[2004]
@@ -1508,7 +1508,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.114. Article Title: :green[The results from index tests performed on the Kaplan 
+		3.117. Article Title: :green[The results from index tests performed on the Kaplan 
 		turbines], Authors: Câmpian C. Viorel, Nedelcu Dorian,  Source: :blue[Proceedings 
 		of the International Conference: Clasic and Fashion in Fluid Machinery], October, 
 		18-20, Belgrade, Yugoslavia-Serbia, pp 35-44, 10 pg, Published: :red[2002]
@@ -1518,7 +1518,7 @@ def app():
 
 	col1, col2 = st.columns([0.8,0.2])
 	col1.write( """
-		3.115. Article Title: :green[ Determine The Correlation Between Wicket Gates 
+		3.118. Article Title: :green[ Determine The Correlation Between Wicket Gates 
 		Angles and Servomotors Strokes], Authors: Nedelcu Dorian, Câmpian C. Viorel, 
 		Source: :blue[Proceedings 
 		of the International Conference: Clasic and Fashion in Fluid Machinery], October, 
