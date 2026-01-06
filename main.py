@@ -15,16 +15,22 @@ st.set_page_config(
 
 # ---  PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
-img_Black = current_dir / "Images" / "Black.avif"
-st.markdown(f"""
-            <style>
-            .stApp {{background-image: img_Black); 
-                     background-attachment: fixed;
-                     background-size: cover}}
-			</style>
-			""", unsafe_allow_html=True)
 
-st.header(":large_blue_square: Dorian NEDELCU Activity :arrow_down:")
+dark = '''
+	<style>
+		.stApp {  
+		primaryColor="Red"
+		backgroundColor="Black"
+		secondaryBackgroundColor="White"
+		textColor="Gray"
+		font="sans serif"
+		}
+	</style>
+	'''
+st.markdown(dark, unsafe_allow_html=True)
+
+
+st.header("Dorian NEDELCU Activity :arrow_down:")
 
 st.sidebar.title(":classical_building: Dorian Nedelcu")
 st.sidebar.write("---")

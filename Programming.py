@@ -30,10 +30,13 @@ def app():
 	st.image(Image.open(image_Python), width=700)
 	col1, col2 = st.columns(2,gap="small")
 	with col1:
-		st.write("University VITEZ - Python Presentation") 
+		st.write("Dorian Nedelcu - Python Presentation at University VITEZ") 
 	with col2:
 		Python_file = current_dir / 'DOCS' / 'Python Introduction.pdf'
-		FCT_Down( Python_file, "Download presentation" )
+		FCT_Down( Python_file, "Download Power Point presentation" )
+
+		col2.link_button("View lecture about Python programming", "https://www.youtube.com/watch?v=AA1Q8sVe7kg")
+
 	st.write("---")
 	st.subheader(":gray[1. PyDigitizer]") 
 	col1, col2 = st.columns(2,gap="small")

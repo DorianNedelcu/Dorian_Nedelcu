@@ -43,8 +43,9 @@ def app():
 	with col2:
 		image_Rujici = current_dir / "Images" / "Thesis_Rujici.jpg"
 		st.image(Image.open(image_Rujici), width=200)
-#		st.write("https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Rujici.pdf")
-		st.write("View [link](https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Rujici.pdf)")
+#		
+		Teza_Rujici_file = current_dir / 'DOCS' / 'Teza Rujici ID.pdf'
+		FCT_Down( Teza_Rujici_file, "Thesis Download" )
 
 	# ================================================================ XXXX
 	st.write("---")
@@ -78,8 +79,9 @@ def app():
 	with col2:
 		image_Daia = current_dir / "Images" / "Thesis_Daia.jpg"
 		st.image(Image.open(image_Daia), width=200)
-#		st.write("https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Daia.pdf")
-		st.write("View [link](https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Daia.pdf)")	
+		
+		Teza_Daia_file = current_dir / 'DOCS' / 'Teza DAIA.pdf'
+		FCT_Down( Teza_Daia_file, "Thesis Download" )
 	# ================================================================
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
@@ -94,8 +96,9 @@ def app():
 	with col2:
 		image_Florea = current_dir / "Images" / "Thesis_Florea.jpg"
 		st.image(Image.open(image_Florea), width=200)
-#		st.write("https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Florea_e.pdf")
-		st.write("View [link](https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Florea_e.pdf)")	
+
+		Teza_Florea_file = current_dir / 'DOCS' / 'Teza Florea Danut.pdf'
+		FCT_Down( Teza_Florea_file, "Thesis Download" )
 	# ================================================================
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
@@ -110,9 +113,9 @@ def app():
 	with col2:
 		image_Avasiloae = current_dir / "Images" / "Thesis_Avasiloae.jpg"
 		st.image(Image.open(image_Avasiloae), width=200)
-#		st.write("https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Avasiloaie_e.pdf")
-		st.write("View [link](https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Avasiloaie_e.pdf)")	
 
+		Teza_Avasiloaie_file = current_dir / 'DOCS' / 'Teza Avasiloaie Raoul.pdf'
+		FCT_Down( Teza_Avasiloaie_file, "Thesis Download" )
 	# ================================================================ XXXX
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
@@ -149,7 +152,6 @@ def app():
 		Teza_Peris_file = current_dir / 'DOCS' / 'Teza Peris.pdf'
 		FCT_Down( Teza_Peris_file, "Thesis Download" )
 		
-	
 	# ================================================================ 
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")
@@ -164,8 +166,9 @@ def app():
 	with col2:
 		image_Ghican = current_dir / "Images" / "Thesis_Ghican.jpg"
 		st.image(Image.open(image_Ghican), width=200)
-#		st.write("https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Ghican_r.pdf")
-		st.write("View [link](https://eng.ubbcluj.ro/wp-content/uploads/sdi/teze/Ghican_r.pdf)")	
+
+		Teza_Ghican_file = current_dir / 'DOCS' / 'Teza Ghican Adeline.pdf'
+		FCT_Down( Teza_Ghican_file, "Thesis Download" )
 	# ================================================================ XXXX
 	st.write("---")
 	col1, col2 = st.columns(2,gap="small")

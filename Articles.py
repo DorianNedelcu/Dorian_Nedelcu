@@ -23,7 +23,7 @@ def app():
 	
 	# --- LIST OF BOOKS   ---
 	st.write("#")
-	st.subheader(":red[150 x articles published between 2023-2002]")   
+	st.subheader(":red[153 x articles published between 2025-2002]")   
 	st.write("---")
 	st.subheader(":gray[24 x ISI published articles indexed in the Web of Science]")
 
@@ -394,8 +394,39 @@ def app():
 	col2.link_button("View", "https://www.researchgate.net/profile/Sava-Ianici/publication/291136956_Dynamic_analysis_of_the_Double_Harmonic_Transmission/links/569e37d308ae00e5c99199f4/Dynamic-analysis-of-the-Double-Harmonic-Transmission.pdf")
 			
 	st.write("---")
-	st.subheader(":gray[115 x Published articles between 2023-2002 included in Conferences,Journals & Databases]")  
+	st.subheader(":gray[118 x Published articles between 2023-2002 included in Conferences,Journals & Databases]")  
 	
+
+	col1, col2 = st.columns([0.9,0.1])
+	col1.write( """
+		3.1. Article  Title: :green[Simulation of Losses in a Gearbox with and Without Anti-foaming Protection] 
+		Author(s): TD Pau, ZI Korka, D Nedelcu, 
+		Source: :blue[Journal of Physics: Conference Series]  Volume: 3153, Issue 1, Pages 012005
+		13th International Conference on Applied Sciences (ICAS2025) 29/05/2025 - 31/05/2025 Hunedoara, Romania
+		Published: :red[2025], DOI 10.1088/1742-6596/3153/1/012005
+	"""   )
+	col2.link_button("View", "https://iopscience.iop.org/article/10.1088/1742-6596/3153/1/012005/pdf")
+
+	col1, col2 = st.columns([0.9,0.1])
+	col1.write( """
+		3.2. Article  Title: :green[Kinematic Analysis of Slider-crank Mechanism in Solidworks] 
+		Author(s): T D Pau, Z I Korka, D Nedelcu, T Latinovic, B Prochaska, 
+		Source: :blue[Journal of Physics: Conference Series]  Volume: 3153, Pages 012006
+		13th International Conference on Applied Sciences (ICAS2025) 29/05/2025 - 31/05/2025 Hunedoara, Romania
+		Published: :red[2025], DOI 10.1088/1742-6596/3153/1/012006
+	"""   )
+	col2.link_button("View", "https://iopscience.iop.org/article/10.1088/1742-6596/3153/1/012006/pdf")
+
+	col1, col2 = st.columns([0.9,0.1])
+	col1.write( """
+		3.3. Article  Title: :green[Assessing the Meshing for Windage Power Loss Simulations of an Orthogonal Face Gear] 
+		Author(s): Tiberiu-Daniel Pau, Zoltan-Iosif Korka, Dorian Nedelcu, Corneliu Hrimiuc, 
+		Source: :blue[MACHINES]  Volume: 13  Issue: 5 Pages: 341
+		Published: APR :red[2025], https://doi.org/10.3390/machines13050341
+	"""   )
+	col2.link_button("View", "https://www.mdpi.com/2075-1702/13/5/341")
+
+
 	col1, col2 = st.columns([0.9,0.1])
 	col1.write( """
 		3.1. Article  Title: :green[USING STREAMLIT AND BASIC4ANDROID (B4A) TO CREATE THE SAME APPLICATION – B4A VERSION]

@@ -47,9 +47,8 @@ def app():
 		""" 		)
 
 	with col2:
-		col2.link_button("Download PDF file of the book", "http://www.editura.ubbcluj.ro/www/ro/books/search.php")
-
-		st.write( """:information_source: Write 'Python' word in Search field to find the PDF file""")
+		col2.link_button("Download PDF file of the book ", "https://editura.ubbcluj.ro/index.php/puc")
+		st.write( """:information_source: Write 'Python' word in ''Search' field to find the PDF file""")
 		st.write( """   """) 
 
 		st.write( """:arrow_down: Download the code of the scripts""")
